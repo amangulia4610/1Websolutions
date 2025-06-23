@@ -1,74 +1,82 @@
-# 🚀 1 Web Solutions – Homepage Redesign Sneak Peek
+🚀 1 Web Solutions – Full Website Redesign & Performance Boost
 
-Hey there! 👋  
-After building several successful web development projects, I decided to give **1 Web Solutions** a well-deserved redesign — starting with its homepage. And I’m excited to share a **sneak peek** of the mobile version with you! 📱✨
+Hey there! 👋
+Welcome to the complete source for the redesigned website of 1 Web Solutions, a full-service digital agency. This project was a massive overhaul of our online presence — not just the homepage, but the entire site — with a sharp focus on performance, animations, and responsive design.
 
----
+🎯 Project Overview
 
-## 🎨 About the Project
+I undertook this project to give 1 Web Solutions a sleek, modern, and high-performing website. The goal was to transform it into a visually engaging and technically advanced experience — something you'd expect from award-winning digital studios.
 
-The goal?  
-To transform the 1 Web Solutions homepage into a **sleek, modern, and interactive digital experience** using cutting-edge tools and web technologies.
+But here's the kicker:
+The landing page alone had 150+ images and custom fonts. Despite that, using advanced optimization techniques, I achieved a Google Lighthouse performance score of 99/100! ⚡️
 
-### 🛠 Tech Stack
+🌟 What Makes It Stand Out?
 
-- **HTML5 / CSS3 / JavaScript**
-- **GSAP (GreenSock Animation Platform)**
-- **ScrollTrigger**
-- **Locomotive Scroll JS**
+I've employed a range of cutting-edge tools and techniques, including:
 
-These technologies came together to create a buttery-smooth scrolling experience, complete with **3D mouse-hover tilt effects**, **scroll-triggered animations**, and **elegant transitions** that give the site a premium, award-worthy feel. 🪄
+HTML5 / CSS3 / JavaScript (ES6+)
+GSAP (GreenSock Animation Platform) for rich animations
+ScrollTrigger for scroll-based effects
+Locomotive Scroll for buttery-smooth scrolling
+3D mouse-hover tilt effects
+Image optimization, minification, obfuscation, and resource prioritization
+The result?
+✨ A fully responsive, fast-loading, and elegant website with scroll-triggered animations, hover-based interactions, and smooth transitions that deliver a premium user experience across all devices.
 
----
+🧩 Tech Stack
 
-## ✨ Key Features
+✅ HTML5 / CSS3 / JavaScript (ES6+)
+🎨 GSAP (GreenSock)
+🔄 ScrollTrigger + Locomotive Scroll
+📱 Responsive Design (Mobile-first approach)
+⚙️ Web Performance Optimization (Image compression, font optimization, resource prioritization, etc.)
+🛠️ SEO and Accessibility focused
+📄 Key Pages & Features
 
-- 🎯 **Sleek & Modern Design**  
-  Eye-catching animations and transitions that deliver a polished, high-end aesthetic.
+Home – Dynamic scroll interactions and hero animations
+Web Development – HTML/CSS/React/WordPress-based service offerings
+E-commerce Solutions – Custom store development, platform support
+Marketing Services – SEO, Social Media, Google/Meta Ads
+Business Tools – Analytics integration, School ERP, Event Booking
+Blog – Resource hub with design/dev/marketing articles
+Portfolio – Case studies for past client work (e.g., Jodsy, VVS Trades, School ERP)
+Contact – Fully interactive “Let’s Connect” form
+🔧 Performance Highlight
 
-- 📱 **Responsive & Intuitive Navigation**  
-  A beautifully crafted mobile menu ensures easy navigation across all devices.
+🏆 Google PageSpeed Insights Score: 99/100
+Despite the media-heavy content, the site is highly optimized.
+Techniques used include:
 
-- 🖼️ **Dynamic Content**  
-  Explore sections with **smooth opacity changes**, hover effects, and scroll-triggered reveals.
+Image lazy loading + compression
+Font subsetting and preloading
+Minified + Obfuscated scripts and styles
+Reduced layout shifts with optimized animations
+🤝 Want to Contribute?
 
-- 🧭 **Horizontal Scroll via Vertical Interaction**  
-  A unique and engaging layout for the blog section using scroll-driven horizontal movement.
+We welcome developers, designers, and curious learners to contribute to future features, improve animations, optimize SEO, or even submit articles to our blog!
 
----
+Fork the repo
+Create a feature branch
+Commit your changes with clear messages
+Open a pull request
+All contributions are appreciated!
 
-## 🔧 What’s Next?
+💼 Hire Me
 
-This is just the **homepage** — and we’ve only just begun!  
-We plan to expand the site with new pages and features in the near future. 🚧
+If you're looking for a creative web developer to build fast, responsive, and beautifully animated websites, let’s connect.
 
-### 🤝 Want to Contribute?
+I specialize in:
 
-We’re welcoming **students, developers, and designers** to contribute and collaborate! Whether you’re passionate about UI/UX, motion design, or just want to learn — **you’re invited** to join us in building the rest of the site.
+UI/UX Design
+Performance Optimization
+SEO & Marketing
+React / WordPress / Headless CMS Development
+📧 Email: amangulia9053@gmail.com
+🌐 Website: www.1websol.com
+🔗 LinkedIn: Aman Gulia
 
----
+💬 Feedback Welcome
 
-## 💼 Looking for a Web Developer?
-
-If you’re seeking a **creative web developer** who can craft modern, high-converting websites, you're in the right place. I specialize in:
-
-- UI/UX Design  
-- Brand Creation  
-- SEO Optimization  
-- Google Ads & Digital Marketing
-
-Let’s elevate your online presence together! 🌟
-
----
-
-## 💬 Feedback Welcome
-
-Your feedback means the world!  
-This isn’t just a website — it’s an evolving digital experience, and your input helps us improve it. Checkout it at www.1websol.com 
-
-**Drop a comment, open an issue, or share your thoughts** — we’d love to hear from you!
-
----
-
-### 👨‍💻 Created by [Aman Gulia](https://www.linkedin.com/in/aman-gulia-4610)
+This is more than just a project — it’s an evolving digital experience.
+Got thoughts? Found a bug? Have ideas? Open an issue or submit a pull request. I’d love to hear from you!
 
