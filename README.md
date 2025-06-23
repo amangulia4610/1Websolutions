@@ -68,7 +68,7 @@ Techniques used include:
 - ✅ Font subsetting and preloading  
 - ✅ Minified + obfuscated scripts and styles  
 - ✅ Reduced layout shifts with optimized animations  
-<img width="684" alt="image" src="https://github.com/user-attachments/assets/463f8ad7-0879-4ace-8ec5-d895fd1e161e" />
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/463f8ad7-0879-4ace-8ec5-d895fd1e161e" />
 
 ---
 
