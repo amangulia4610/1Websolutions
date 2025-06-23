@@ -12,6 +12,9 @@ I undertook this project to give 1 Web Solutions a **sleek, modern, and high-per
 But here's the kicker:  
 The landing page alone had **150+ images** and **custom fonts**. Despite that, using advanced optimization techniques, I achieved a **Google Lighthouse performance score of 99/100!** ⚡️
 
+<img width="1655" alt="image" src="https://github.com/user-attachments/assets/916f3d38-3e31-4c7c-a40f-cbaa93bf31f1" />
+
+
 ---
 
 ## 🌟 **What Makes It Stand Out?**
