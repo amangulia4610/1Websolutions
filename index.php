@@ -15,7 +15,7 @@ if (strpos($userAgent, 'Mobile') !== false) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adaptive Website</title>
+    <title>1 Web Solutions</title>
     <link rel="stylesheet" href="<?php echo $isMobile ? 'mobile.css' : 'desktop.css'; ?>">
 </head>
 <body>
